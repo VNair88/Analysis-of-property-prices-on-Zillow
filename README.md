@@ -39,7 +39,7 @@ Trend of unemployment rates in MA, NJ, WA, CA & DC
 
 [logo2]: https://github.com/VNair88/Analysis-of-property-prices-on-Zillow/blob/master/Plots/Capture.JPG  "Plot3"
 
->State_avg - denotes average property prices in a county are more than the state average <br>
+> >State_avg - denotes average property prices in a county are more than the state average <br>
 DaysonZillow_bin - If the average number of days, properties in a county spend on Zillow is less than or equal to 80.063 days then the value is 1, otherwise 0 <br>
 Inventory_bin - If the inventory size is less than or equal to 288.5, then the value is 1 otherwise 0
 
