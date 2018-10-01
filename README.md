@@ -39,8 +39,8 @@ Trend of unemployment rates in MA, NJ, WA, CA & DC
 
 [logo2]: https://github.com/VNair88/Analysis-of-property-prices-on-Zillow/blob/master/Plots/Capture.JPG  "Plot3"
 
->State_avg - denotes average property prices in a county are more than the state average 
-DaysonZillow_bin - If the average number of days, properties in a county spend on Zillow is less than or equal to 80.063 days then the value is 1, otherwise 0 
+>State_avg - denotes average property prices in a county are more than the state average <br>
+DaysonZillow_bin - If the average number of days, properties in a county spend on Zillow is less than or equal to 80.063 days then the value is 1, otherwise 0 <br>
 Inventory_bin - If the inventory size is less than or equal to 288.5, then the value is 1 otherwise 0
 
 
@@ -52,7 +52,7 @@ If a county's market is relatively active and big, it has a better chance of out
 Classification tree
 ![alt text][logo3]
 
-[logo2]: https://github.com/VNair88/Analysis-of-property-prices-on-Zillow/blob/master/Plots/Capture1.JPG  "Plot4"
+[logo3]: https://github.com/VNair88/Analysis-of-property-prices-on-Zillow/blob/master/Plots/Capture1.JPG  "Plot4"
 
 In general, if a city has a crime rate below the state average, that city will likely have above the state average home values which is expected. 
 However, it is interesting to note when looking at a lower depth on the left, that some cities have high crime rate(above 120 per 10,000) but within that group, if property crime rate is above 215 per 10,000 then the city has high home values where less property crime has low home values.
