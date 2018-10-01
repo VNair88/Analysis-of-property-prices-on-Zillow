@@ -1,12 +1,13 @@
 # Analysis-of-property-prices-on-Zillow
-Analysis of prices of properties listed on Zillow and their interaction with social stats such as unemployment and cime rates
+Analysis of prices of properties listed on Zillow and their interaction with social stats such as unemployment and cime rates. The notebook can be better viewed through NBViewer here - http://nbviewer.jupyter.org/github/VNair88/Analysis-of-property-prices-on-Zillow/blob/master/Notebook/IDIS%203802_Project_Zillow%20house%20prices.ipynb
 
 ### Datasets
-County Dataset - County wise property information for all states for each month from 04/1996 to 12/2017. 
-City Dataset - City wise property information for all states for each month from 04/1996 to 12/2017. 
-Lookup files - Files that link county and city information to State level information.
-Unemployment statistics - Unemployment rates for the following states: Massachusetts, New Jersey, Washington, California and DC for each month from 04/1996 to 12/2017. 
-Crime statistics - Crime statistics for each city for all states for 2014, 2015 and 2016.
+Most of the datasets are sourced from Zillow's page on Kaggle - https://www.kaggle.com/zillow/zecon
+County Dataset - County wise property information for all states for each month from 04/1996 to 12/2017. <br>
+City Dataset - City wise property information for all states for each month from 04/1996 to 12/2017. <br>
+Lookup files - Files that link county and city information to State level information. <br>
+Unemployment statistics - Unemployment rates for the following states: Massachusetts, New Jersey, Washington, California and DC for each month from 04/1996 to 12/2017. <br>
+Crime statistics - Crime statistics for each city for all states for 2014, 2015 and 2016. <br>
 Statecode file - File that links states to corresponding state abbreviations. Used for plots.
 
 
